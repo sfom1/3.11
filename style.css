@@ -1,4 +1,12 @@
 css html tables
-table.center {
+table.table1 {
     border: 1px solid;
+    border: red 1px solid;
   }
+
+
+table.table2 {
+    border: 1px solid;
+    border: red 1px solid;
+  }
+

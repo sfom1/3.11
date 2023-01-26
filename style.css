@@ -10,3 +10,15 @@ table.table2 {
     border: red 1px solid;
   }
 
+table.table3 {
+    border: 1px solid;
+    width: 50%;
+    border: green 1px solid;
+    
+  }
+
+table, tr, td.table3 {
+    border: green 1px solid ;
+    
+  }
+

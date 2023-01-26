@@ -1,4 +1,3 @@
-css html tables
 table.table1 {
     border: 1px solid;
     border: red 1px solid;
@@ -21,4 +20,7 @@ table, tr, td.table3 {
     border: green 1px solid ;
     
   }
-
+table, tr, td.a {
+    border: blue 5px solid ;
+    
+  }
